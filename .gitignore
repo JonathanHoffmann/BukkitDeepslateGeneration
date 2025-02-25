@@ -1,0 +1,32 @@
+# Ignore compiled Java binaries
+*.class
+
+# Ignore Maven target directory (build output)
+target/
+
+# Ignore IDE-specific files
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code settings
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# MacOS and system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Ignore plugin jar files if copied elsewhere
+*.jar
+*.war
+*.ear
