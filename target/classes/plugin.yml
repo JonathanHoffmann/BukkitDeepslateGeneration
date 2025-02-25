@@ -1,5 +1,0 @@
-name: MoreStoneGeneration
-version: 2.0.0
-main: me.JonathanHoffmann.MoreStoneGeneration.Main
-api-version: 1.18
-description: Configurable different behaviours for Stone formation to make more blocks renewable.
