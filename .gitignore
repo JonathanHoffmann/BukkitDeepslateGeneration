@@ -3,6 +3,7 @@
 
 # Ignore Maven target directory (build output)
 target/
+target/classes/
 
 # MacOS and system files
 .DS_Store
