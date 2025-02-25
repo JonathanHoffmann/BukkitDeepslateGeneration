@@ -2,8 +2,8 @@
 *.class
 
 # Ignore Maven target directory (build output)
-target/
-target/classes/
+# target/
+# target/classes/
 
 # MacOS and system files
 .DS_Store
