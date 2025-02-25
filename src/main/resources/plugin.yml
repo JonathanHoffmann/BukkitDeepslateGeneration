@@ -1,5 +1,5 @@
-name: DeepslateGeneration
-version: 1.0.0
-main: DeepslateGeneration.DeepslateGeneration.Main
+name: MoreStoneGeneration
+version: ${plugin.version}
+main: me.JonathanHoffmann.MoreStoneGeneration.Main
 api-version: 1.18
-description: Deepslate generates when lava and water meet below Y=0.
+description: Configurable different behaviours for Stone formation to make more blocks renewable.
