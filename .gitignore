@@ -16,4 +16,3 @@ Thumbs.db
 *.jar
 *.war
 *.ear
-            "command": "\"C:/Program Files/Java/jdk-21/bin/java.exe\" -Xmx2G -Xms2G -jar \"E:/Programming/Bukkit plugins/1 test server/minecraft_server.jar --nogui",
