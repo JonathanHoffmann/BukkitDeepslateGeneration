@@ -3,7 +3,7 @@ package me.JonathanHoffmann.MoreStoneGeneration;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class Main extends JavaPlugin {
+public final class MoreStoneGeneration extends JavaPlugin {
     public final String FORMDEEPSLATEBELOW0_EXPLANATION = "Replace Stone with Deepslate and Cobblestone with Cobbled Deepslate generation below Y0 in the Overworld";
     public final String REPLACE_BASALT_WITH_TUFF_EXPLANATION = "Replace Basalt with Tuff generation in the Overworld";
     public final String CONVERT_STONE_AND_COBBLE_TO_ENDSTONE_EXPLANATION = "Replace Stone and Cobblestone with Endstone generation in the End";

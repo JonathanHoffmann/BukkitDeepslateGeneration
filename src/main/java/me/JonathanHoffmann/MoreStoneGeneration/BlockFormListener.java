@@ -11,9 +11,9 @@ public class BlockFormListener implements Listener {
     public final String REPLACE_BASALT_WITH_TUFF_EXPLANATION = "Replace Basalt with Tuff generation in the Overworld";
     public final String CONVERT_STONE_AND_COBBLE_TO_ENDSTONE_EXPLANATION = "Replace Stone and Cobblestone with Endstone generation in the End";
 
-    private final Main plugin;
+    private final MoreStoneGeneration plugin;
 
-    public BlockFormListener(Main plugin) {
+    public BlockFormListener(MoreStoneGeneration plugin) {
         this.plugin = plugin;
     }
 

@@ -1,5 +1,6 @@
 name: MoreStoneGeneration
 version: ${plugin.version}
-main: me.JonathanHoffmann.MoreStoneGeneration.Main
+main: me.JonathanHoffmann.MoreStoneGeneration.MoreStoneGeneration
+author: Jonathan Hoffmann
 api-version: 1.18
 description: Configurable different behaviours for Stone formation to make more blocks renewable.
